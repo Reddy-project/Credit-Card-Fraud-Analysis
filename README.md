@@ -1,15 +1,11 @@
 # Credit-Card-Fraud-Analysis
 
-Designed a fraud detection dashboard using Power BI to identify high-risk transactions across multiple dimensions (e.g., user, geography, transaction type).
-Built DAX measures and KPIs to calculate fraud score, transaction counts, and behavior trends.
-Cleaned and transformed raw data using Power Query Editor; established data model relationships to enhance reporting accuracy.
-Enabled fraud pattern detection through interactive visuals and segmentation, improving actionable insights for fraud risk mitigation.
-Delivered a scalable and user-friendly dashboard that supports drill-down analysis and enhances decision-making for stakeholders
+This Fraud Analysis Dashboard provides a comprehensive overview of fraudulent activities detected within the dataset. It is designed to help stakeholders understand fraud patterns, high-risk entities, and transaction behaviours, enabling data-driven decision-making to mitigate future risks.
 
 Data Overview:
-Total Transactions: 1.2M+
+Total Transactions: 1.2 M+
 Fraudulent Transactions: 8,432 (0.7%)
-Time Period Covered: 2019 - 2024
+Period Covered: 2019 - 2024
 Key Fields: Transaction ID, Amount, Customer ID, Merchant, Transaction Type, Location, Fraud Flag
 
 Key Insights:
